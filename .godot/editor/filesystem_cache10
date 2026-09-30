@@ -1,56 +1,26 @@
 9cad1ddce9e5a63143ba340c9520626b
-::res://::1790735763
-export_presets.cfg::TextFile::-1::1790400129::0::1::::<><><>0<>0<><>::
-icon.svg::CompressedTexture2D::5840510218694724940::1790374855::1790374860::1::::<><><>0<>0<>853fd81f271189730015ed609af27784<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://1 Spank Mechanic/::1790735763
-default_bus_layout.tres::AudioBusLayout::3305376109319763652::1790448725::0::1::::<><><>0<>0<><>::
-::res://1 Spank Mechanic/Assets/::1790399347
-ArrowDown.png::CompressedTexture2D::2367475898060184977::1790376254::1790735763::1::::<><><>0<>0<>b3425f6725fe5f83c334fa255f094fdc<>res://.godot/imported/ArrowDown.png-156656658cee90e95f3dcfb72d481ba1.ctex::
-ArrowLeft.png::CompressedTexture2D::2510123830454401685::1790376254::1790735763::1::::<><><>0<>0<>4917a0c76fed07a821ada7a98d281588<>res://.godot/imported/ArrowLeft.png-3b68828bc747805d95c2558e25a61f32.ctex::
-ArrowRight.png::CompressedTexture2D::7146049123067350569::1790376254::1790735763::1::::<><><>0<>0<>6f1dcd1ff3a9e0cbe8513b200ab0ca71<>res://.godot/imported/ArrowRight.png-90c2d070a0a109d35b80edaf2ee16530.ctex::
-ArrowUp.png::CompressedTexture2D::9013195465799945872::1790376254::1790735763::1::::<><><>0<>0<>1e048d2c226402d242266285b03c9c1b<>res://.godot/imported/ArrowUp.png-784e392f5021a4b68636c294d60c5ee6.ctex::
-Bullseye100.png::CompressedTexture2D::6488818501118191285::1790376254::1790735764::1::::<><><>0<>0<>9cb3538638ec7b7c9d257f3665b5f009<>res://.godot/imported/Bullseye100.png-6f0737d3676be8eb4428e088da96aa80.ctex::
-Crosshair.png::CompressedTexture2D::122723597936894906::1790376254::1790735763::1::::<><><>0<>0<>095c8a47503b681117a34b3c8e60f6cf<>res://.godot/imported/Crosshair.png-060e9eba8243e59951cc56d9551f21d3.ctex::
-EvelynDeskSpankAim.jpg::CompressedTexture2D::8809187444084797324::1790375442::1790735764::1::::<><><>0<>0<>e6d6686bef0a0e9dcb45791dbe4b3f75<>res://.godot/imported/EvelynDeskSpankAim.jpg-94386604603804831cbccfba9afe9c96.ctex::
-EvelynDeskSpankHit.jpg::CompressedTexture2D::1914268471608182248::1790375442::1790735764::1::::<><><>0<>0<>2166ccf193bf4c3083384b10b023b56a<>res://.godot/imported/EvelynDeskSpankHit.jpg-d8f06ad9d9778644167b5525c8170af5.ctex::
-Logo.png::CompressedTexture2D::2309615230291995777::1790399347::1790735763::1::::<><><>0<>0<>9ddbf9b30aa0d7fab11ff51c5f290410<>res://.godot/imported/Logo.png-8eb3325e10e30d8722371809de29ba89.ctex::
-::res://1 Spank Mechanic/Assets/SFX/::1790735677
-::res://1 Spank Mechanic/Assets/SFX/best/::1790449067
-Moan 4.wav::AudioStreamWAV::8068970599503825345::1790447402::1790735764::1::::<><><>0<>0<>d34b24c082b94d455ff7fcc7fd43ff9e<>res://.godot/imported/Moan 4.wav-52ef7e9bde1496356e4ebde51d4fe2de.sample::
-Moan 7.wav::AudioStreamWAV::6555167612347437288::1790447402::1790735764::1::::<><><>0<>0<>46472d7b133cae54c2b78f4f55cce762<>res://.godot/imported/Moan 7.wav-de415eb7ab02d845a130a841ff40a550.sample::
-Moan 8.wav::AudioStreamWAV::4308622673198542472::1790447402::1790735764::1::::<><><>0<>0<>b5d5bc8833476588b4b46fbeb58fa959<>res://.godot/imported/Moan 8.wav-81fbd621b61ecd5e9ab9319a6957dca2.sample::
-Moan 9.wav::AudioStreamWAV::3407997395250556803::1790447402::1790735764::1::::<><><>0<>0<>cf64382d77ccd68776d1a37fe563da42<>res://.godot/imported/Moan 9.wav-ee38e586e20ced056b40de212bb3be58.sample::
-Moan 12.wav::AudioStreamWAV::5780692293194657808::1790447402::1790735764::1::::<><><>0<>0<>8609039821406a23e4184994b853e39c<>res://.godot/imported/Moan 12.wav-745534bea6976aa37c1a1d97fde2aae9.sample::
-Moan 14.wav::AudioStreamWAV::3864444784611624197::1790447402::1790735764::1::::<><><>0<>0<>eb45e6d668010648231aa5d9e65ebd27<>res://.godot/imported/Moan 14.wav-96f51a9721d5a1d908d1e2b74c7318b1.sample::
-Moan 18.wav::AudioStreamWAV::7020104110487219174::1790447402::1790735764::1::::<><><>0<>0<>42b7d473df1a495f9ea980545a780ae4<>res://.godot/imported/Moan 18.wav-7ddf4b58a7f7ab2fd44ac69ccbb12d4b.sample::
-Moan 19.wav::AudioStreamWAV::3610280979595506308::1790447402::1790735764::1::::<><><>0<>0<>4deee0045eec7d6a082b23dd540846d6<>res://.godot/imported/Moan 19.wav-8b724c2ea87cc1c8aa255089cd5f14de.sample::
-::res://1 Spank Mechanic/Export/::1790400788
-::res://1 Spank Mechanic/Export/Web/::1790400779
-Spank Mini Game.apple-touch-icon.png::CompressedTexture2D::2621624421220746072::1790399504::1790735763::1::::<><><>0<>0<>577c8208894f3924e491c713019f7eb5<>res://.godot/imported/Spank Mini Game.apple-touch-icon.png-f0bc6f2ad522fb372e031efb26ef9abf.ctex::
-Spank Mini Game.icon.png::CompressedTexture2D::4142901854384398494::1790399504::1790735764::1::::<><><>0<>0<>e443bceb1729932667cb89314b4fba82<>res://.godot/imported/Spank Mini Game.icon.png-ca3af599b25c6382c47ff86e73154fa9.ctex::
-Spank Mini Game.png::CompressedTexture2D::930799129648335758::1790399503::1790735764::1::::<><><>0<>0<>5d49b5d04b3b98fe74bfdb368942e08f<>res://.godot/imported/Spank Mini Game.png-263e2b17af18e4a8eaf5ea142066a78f.ctex::
-::res://1 Spank Mechanic/Export/Window/::1790400129
-::res://1 Spank Mechanic/Global/::1790449225
-game_manager.gd::GDScript::6219229721697063929::1790449225::0::1::::<>Node<><>0<>0<><>::
-::res://1 Spank Mechanic/Referencias/::1790389871
-Bondage Teacher.png::CompressedTexture2D::2045166270645037564::1790375094::1790735764::1::::<><><>0<>0<>07e1abcdbfebf92b0bc071c487317c86<>res://.godot/imported/Bondage Teacher.png-a3fcc07c6d143dabaed24fee35fb0688.ctex::
-Bondage Teacher.txt::TextFile::-1::1790389871::0::1::::<><><>0<>0<><>::
-::res://1 Spank Mechanic/Resources/::1790375180
-::res://1 Spank Mechanic/Resources/Scrips/::1790375180
-::res://1 Spank Mechanic/Scenes/::1790391946
-::res://1 Spank Mechanic/Scenes/Bulleye/::1790735763
-arrow_manager.gd::GDScript::2515312255946158680::1790386453::0::1::::<>Control<><>0<>1<><>::
-bulleye.gd::GDScript::1161043171193540168::1790399295::0::1::::<>Control<><>0<>0<><>::
-bulleye.tscn::PackedScene::1750402481565708215::1790735763::0::1::::<><><>0<>0<><>::uid://cyph5l7dlfg0t::::res://1 Spank Mechanic/Assets/Bullseye100.png<>uid://qsohgm3epatk::::res://1 Spank Mechanic/Scenes/Bulleye/bulleye.gd<>uid://c82undcjqkrwj::::res://1 Spank Mechanic/Assets/ArrowRight.png<>uid://bb3o3cedijnho::::res://1 Spank Mechanic/Scenes/Bulleye/arrow_manager.gd<>uid://bb06mw5ypu7w0::::res://1 Spank Mechanic/Assets/ArrowLeft.png<>uid://8y28nmmnihv2::::res://1 Spank Mechanic/Assets/ArrowDown.png<>uid://d1ocaoon8m6ae::::res://1 Spank Mechanic/Assets/ArrowUp.png<>uid://b0pifei82rh7::::res://1 Spank Mechanic/Assets/Crosshair.png
-::res://1 Spank Mechanic/Scenes/labels/::1790399178
-label_manager.gd::GDScript::4141772381663243269::1790399178::0::1::::<>VBoxContainer<><>0<>0<><>::
-::res://1 Spank Mechanic/Scenes/Main/::1790735763
-main.gd::GDScript::1396467787296580698::1790398902::0::1::::<>Control<><>0<>0<><>::
-main.tscn::PackedScene::2786669313235507126::1790735763::0::1::::<><><>0<>0<><>::uid://t5pvdhnkyuva::::res://1 Spank Mechanic/Scenes/Main/main.gd<>uid://dxriba4vqvpno::::res://1 Spank Mechanic/Assets/EvelynDeskSpankAim.jpg<>uid://crty4rgf5nmjb::::res://1 Spank Mechanic/Themes/Letters.tres<>uid://b0aknehtapi3v::::res://1 Spank Mechanic/Scenes/labels/label_manager.gd<>uid://y654xlw57li2::::res://1 Spank Mechanic/Scenes/Bulleye/bulleye.tscn<>uid://o5565lsx5unv::::res://1 Spank Mechanic/Scenes/Visual/visual.gd<>uid://dm7w1crswftk0::::res://1 Spank Mechanic/Assets/SFX/best/Moan 4.wav
-::res://1 Spank Mechanic/Scenes/MousePos/::1790392551
-mouse_pos.gd::GDScript::765655017299925426::1790392551::0::1::::<>Node2D<><>0<>0<><>::
-::res://1 Spank Mechanic/Scenes/Visual/::1790449391
-visual.gd::GDScript::1046453606491421311::1790449391::0::1::::<>TextureRect<><>0<>0<><>::
-::res://1 Spank Mechanic/Themes/::1790376667
-Letters.tres::Theme::6006784784843096779::1790376667::0::1::::<><><>0<>0<><>::
-::res://Mecanica 1/::1790735763
+::res://::1790739410
+::res://1 Spank Mechanic/::1790739395
+Bondage Teacher.txt::TextFile::-1::1790737248::0::1::::<><><>0<>0<><>::
+::res://1 Spank Mechanic/Assets/::1790738699
+BossOfficeEvelynAim.jpg::CompressedTexture2D::366778067180688142::1790738070::1790738071::1::::<><><>0<>0<>9bf5b362f00ae8b4b94a8c9d1b4a9c4e<>res://.godot/imported/BossOfficeEvelynAim.jpg-ca05d5ac70a6adbc3239dff9ca8197ad.ctex::
+BossOfficeEvelynResult.jpg::CompressedTexture2D::2676010096534185002::1790738071::1790738071::1::::<><><>0<>0<>5f48a009a456196ed210c5221201714f<>res://.godot/imported/BossOfficeEvelynResult.jpg-ee538e0c1c46e0cd10cb17d73d9ae018.ctex::
+Moan 4.wav::AudioStreamWAV::2193491256652224142::1790738699::1790738699::1::::<><><>0<>0<>1ff4c80ca41405e9b523307f759b2ca1<>res://.godot/imported/Moan 4.wav-9bf991156718e9a4747cac15c4f00a30.sample::
+::res://1 Spank Mechanic/Assets/Icons/::1790738482
+ArrowDown.png::CompressedTexture2D::4669206848552455085::1790738481::1790738482::1::::<><><>0<>0<>f5d2a80109a8f1cb0dcd009fec1ae86b<>res://.godot/imported/ArrowDown.png-d7557ac7d4f504b34ec7543887fdee6a.ctex::
+ArrowLeft.png::CompressedTexture2D::2240256200317693211::1790738481::1790738482::1::::<><><>0<>0<>c1a5920b9313c119c94894eb168644a1<>res://.godot/imported/ArrowLeft.png-05f6567cfb3cbe29a115bfdf003597c3.ctex::
+ArrowRight.png::CompressedTexture2D::7980379552095339703::1790738481::1790738482::1::::<><><>0<>0<>e1a468c20c3cc1b88a3ffc03766bf2a7<>res://.godot/imported/ArrowRight.png-485f7beaf59b1c995f6e1d019682b748.ctex::
+ArrowUp.png::CompressedTexture2D::5930225496731469215::1790738481::1790738482::1::::<><><>0<>0<>88e873154daedaaf5b7457c21963321e<>res://.godot/imported/ArrowUp.png-ee8f8bc50daa6832af2f3c71f32aec7f.ctex::
+Bullseye100.png::CompressedTexture2D::6867228996435734533::1790738481::1790738482::1::::<><><>0<>0<>44b5bafc119b57cb91967255c0f7889e<>res://.godot/imported/Bullseye100.png-ba097492e1cc78f80f4267bd1804335d.ctex::
+Crosshair.png::CompressedTexture2D::7076372269101430128::1790738481::1790738482::1::::<><><>0<>0<>21d19476d5e4dac2ea2d8a3fee0f9d5d<>res://.godot/imported/Crosshair.png-36a19b055ca85e4785243709f963fc4d.ctex::
+::res://1 Spank Mechanic/Scene/::1790739410
+game_manager.gd::GDScript::2030461594562321212::1790738286::0::1::::<>Node<><>0<>0<><>::
+visuals.gd::GDScript::1419125933657852946::1790739273::0::1::::<>TextureRect<><>0<>0<><>::
+::res://1 Spank Mechanic/Scene/Bulleye/::1790739410
+arrow_manager.gd::GDScript::7513328859754672978::1790737268::0::1::::<>Control<><>0<>1<><>::
+bulleye.gd::GDScript::9178102383355661119::1790738774::0::1::::<>Control<><>0<>0<><>::
+bulleye.tscn::PackedScene::2518611747356341752::1790739410::0::1::::<><><>0<>0<><>::uid://d307age7nuq12::::res://1 Spank Mechanic/Scene/Bulleye/bulleye.gd<>uid://dfbrotqb0cdlq::::res://1 Spank Mechanic/Scene/Bulleye/arrow_manager.gd<>uid://dlx0xkgbuvnwp::::res://1 Spank Mechanic/Assets/Icons/ArrowRight.png<>uid://66gxskxy0hrv::::res://1 Spank Mechanic/Assets/Icons/ArrowLeft.png<>uid://b7r2fi0a6s7dh::::res://1 Spank Mechanic/Assets/Icons/ArrowDown.png<>uid://cqqv7hldts6rb::::res://1 Spank Mechanic/Assets/Icons/ArrowUp.png<>uid://c43si1srtm6vp::::res://1 Spank Mechanic/Assets/Icons/Bullseye100.png<>uid://c723216eu455u::::res://1 Spank Mechanic/Assets/Icons/Crosshair.png
+label_manager.gd::GDScript::1327801849552031418::1790737314::0::1::::<>VBoxContainer<><>0<>0<><>::
+::res://1 Spank Mechanic/Scene/Main/::1790739374
+main.gd::GDScript::7887972926223336156::1790737302::0::1::::<>Control<><>0<>0<><>::
+main.tscn::PackedScene::2225508808208336256::1790739423::0::1::::<><><>0<>0<><>::uid://dkm805p2fbylo::::res://1 Spank Mechanic/Scene/Main/main.gd<>uid://s6gx5b2cll8u::::res://1 Spank Mechanic/Scene/label_manager.gd<>uid://bb5bfxvvg0385::::res://1 Spank Mechanic/Scene/Bulleye/bulleye.tscn<>uid://fhw1tbqkxxmc::::res://1 Spank Mechanic/Assets/BossOfficeEvelynAim.jpg<>uid://uho2ddb08q71::::res://1 Spank Mechanic/Scene/visuals.gd<>uid://6isqlqrqyp07::::res://1 Spank Mechanic/Assets/Moan 4.wav

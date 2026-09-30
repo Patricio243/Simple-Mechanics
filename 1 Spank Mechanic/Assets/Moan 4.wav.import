@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://6isqlqrqyp07"
+path="res://.godot/imported/Moan 4.wav-9bf991156718e9a4747cac15c4f00a30.sample"
+
+[deps]
+
+source_file="res://1 Spank Mechanic/Assets/Moan 4.wav"
+dest_files=["res://.godot/imported/Moan 4.wav-9bf991156718e9a4747cac15c4f00a30.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

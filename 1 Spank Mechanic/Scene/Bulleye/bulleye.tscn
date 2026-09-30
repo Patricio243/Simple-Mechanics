@@ -1,0 +1,109 @@
+[gd_scene format=3 uid="uid://bb5bfxvvg0385"]
+
+[ext_resource type="Script" uid="uid://d307age7nuq12" path="res://1 Spank Mechanic/Scene/Bulleye/bulleye.gd" id="1_1xq7d"]
+[ext_resource type="Script" uid="uid://dfbrotqb0cdlq" path="res://1 Spank Mechanic/Scene/Bulleye/arrow_manager.gd" id="2_axqw5"]
+[ext_resource type="Texture2D" uid="uid://dlx0xkgbuvnwp" path="res://1 Spank Mechanic/Assets/Icons/ArrowRight.png" id="3_1xq7d"]
+[ext_resource type="Texture2D" uid="uid://66gxskxy0hrv" path="res://1 Spank Mechanic/Assets/Icons/ArrowLeft.png" id="4_axqw5"]
+[ext_resource type="Texture2D" uid="uid://b7r2fi0a6s7dh" path="res://1 Spank Mechanic/Assets/Icons/ArrowDown.png" id="5_m6p7c"]
+[ext_resource type="Texture2D" uid="uid://cqqv7hldts6rb" path="res://1 Spank Mechanic/Assets/Icons/ArrowUp.png" id="6_6waow"]
+[ext_resource type="Texture2D" uid="uid://c43si1srtm6vp" path="res://1 Spank Mechanic/Assets/Icons/Bullseye100.png" id="7_5wsuu"]
+[ext_resource type="Texture2D" uid="uid://c723216eu455u" path="res://1 Spank Mechanic/Assets/Icons/Crosshair.png" id="8_thjgn"]
+
+[node name="Bulleye" type="Control" unique_id=850693989]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_1xq7d")
+
+[node name="Arrow Manager" type="Control" parent="." unique_id=1709375407]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("2_axqw5")
+
+[node name="Y" type="HBoxContainer" parent="Arrow Manager" unique_id=1957819044]
+layout_mode = 1
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_top = -25.0
+offset_bottom = 25.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+metadata/_edit_group_ = true
+
+[node name="arrow_x1" type="TextureRect" parent="Arrow Manager/Y" unique_id=1810699060]
+layout_mode = 2
+texture = ExtResource("3_1xq7d")
+
+[node name="VSeparator" type="VSeparator" parent="Arrow Manager/Y" unique_id=1381911550]
+modulate = Color(1, 1, 1, 0)
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="arrow_x2" type="TextureRect" parent="Arrow Manager/Y" unique_id=1593879332]
+layout_mode = 2
+texture = ExtResource("4_axqw5")
+
+[node name="X" type="VBoxContainer" parent="Arrow Manager" unique_id=612612825]
+layout_mode = 1
+anchors_preset = 13
+anchor_left = 0.5
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -25.0
+offset_right = 25.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+metadata/_edit_group_ = true
+
+[node name="arrow_x1" type="TextureRect" parent="Arrow Manager/X" unique_id=1533011124]
+layout_mode = 2
+texture = ExtResource("5_m6p7c")
+
+[node name="VSeparator" type="HSeparator" parent="Arrow Manager/X" unique_id=1479297700]
+modulate = Color(1, 1, 1, 0)
+custom_minimum_size = Vector2(0, 500)
+layout_mode = 2
+
+[node name="arrow_x2" type="TextureRect" parent="Arrow Manager/X" unique_id=432572396]
+layout_mode = 2
+texture = ExtResource("6_6waow")
+
+[node name="bull" type="TextureRect" parent="." unique_id=1017572678]
+modulate = Color(1, 1, 1, 0.21176471)
+custom_minimum_size = Vector2(500, 500)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -250.0
+offset_top = -250.0
+offset_right = 250.0
+offset_bottom = 250.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("7_5wsuu")
+expand_mode = 2
+
+[node name="Crosshair" type="TextureRect" parent="." unique_id=925850074]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_right = -1642.0
+offset_bottom = 278.0
+grow_horizontal = 2
+scale = Vector2(0.2, 0.2)
+texture = ExtResource("8_thjgn")
+stretch_mode = 3

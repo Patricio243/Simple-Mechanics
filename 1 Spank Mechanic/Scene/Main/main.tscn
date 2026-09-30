@@ -1,0 +1,97 @@
+[gd_scene format=3 uid="uid://6yb2mqt7pbe3"]
+
+[ext_resource type="Script" uid="uid://dkm805p2fbylo" path="res://1 Spank Mechanic/Scene/Main/main.gd" id="1_l5yc5"]
+[ext_resource type="Script" uid="uid://s6gx5b2cll8u" path="res://1 Spank Mechanic/Scene/Bulleye/label_manager.gd" id="2_cp6uu"]
+[ext_resource type="PackedScene" uid="uid://bb5bfxvvg0385" path="res://1 Spank Mechanic/Scene/Bulleye/bulleye.tscn" id="3_cp6uu"]
+[ext_resource type="Texture2D" uid="uid://fhw1tbqkxxmc" path="res://1 Spank Mechanic/Assets/BossOfficeEvelynAim.jpg" id="3_okrdm"]
+[ext_resource type="Script" uid="uid://uho2ddb08q71" path="res://1 Spank Mechanic/Scene/visuals.gd" id="4_sbf1l"]
+[ext_resource type="AudioStream" uid="uid://6isqlqrqyp07" path="res://1 Spank Mechanic/Assets/Moan 4.wav" id="6_okrdm"]
+
+[node name="Main" type="Control" unique_id=1782188683]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_l5yc5")
+
+[node name="Visual" type="TextureRect" parent="." unique_id=729211807]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 563.0
+offset_top = -3.0
+offset_right = 643.0
+offset_bottom = -3.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=1198231731]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="HBoxContainer" unique_id=87592242]
+layout_mode = 2
+size_flags_horizontal = 3
+color = Color(0, 0, 0, 1)
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer/ColorRect" unique_id=1482031]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 30
+theme_override_constants/margin_top = 30
+theme_override_constants/margin_right = 30
+theme_override_constants/margin_bottom = 30
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HBoxContainer/ColorRect/MarginContainer" unique_id=861938167]
+layout_mode = 2
+alignment = 1
+script = ExtResource("2_cp6uu")
+
+[node name="Label up" type="Label" parent="HBoxContainer/ColorRect/MarginContainer/VBoxContainer" unique_id=214048725]
+custom_minimum_size = Vector2(0, 150)
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Spanking [Character's name] #/5"
+horizontal_alignment = 1
+
+[node name="Bulleye2" parent="HBoxContainer/ColorRect/MarginContainer/VBoxContainer" unique_id=850693989 node_paths=PackedStringArray("button") instance=ExtResource("3_cp6uu")]
+layout_mode = 2
+size_flags_vertical = 3
+button = NodePath("../../../../../Button")
+
+[node name="Label down" type="Label" parent="HBoxContainer/ColorRect/MarginContainer/VBoxContainer" unique_id=1544257319]
+custom_minimum_size = Vector2(0, 150)
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Aim carfully at your boss butt"
+horizontal_alignment = 1
+
+[node name="Visuals" type="TextureRect" parent="HBoxContainer" unique_id=516019444]
+layout_mode = 2
+size_flags_horizontal = 3
+texture = ExtResource("3_okrdm")
+script = ExtResource("4_sbf1l")
+
+[node name="Button" type="Button" parent="." unique_id=1287071467]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Moans" type="AudioStreamPlayer" parent="." unique_id=2109599638]
+stream = ExtResource("6_okrdm")
